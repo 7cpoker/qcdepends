@@ -4,3 +4,6 @@
 [submodule "qcclib"]
 	path = qcclib
 	url = git@github.com:7cpoker/qcclib.git
+[submodule "qc3rd"]
+	path = qc3rd
+	url = git@github.com:7cpoker/qc3rd.git
