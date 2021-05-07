@@ -1,3 +1,6 @@
 [submodule "skynet"]
 	path = skynet
 	url = git@github.com:7cpoker/skynet.git
+[submodule "qcclib"]
+	path = qcclib
+	url = git@github.com:7cpoker/qcclib.git
